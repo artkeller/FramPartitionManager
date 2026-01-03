@@ -1,4 +1,4 @@
-# FramPartitionManager
+# FramPartitionManager (AlphaAlpha - not yet published)
 
 **Author:** Thomas Walloschke (<artkeller@gmx.de>)  
 **License:** MIT  
