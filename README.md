@@ -1,5 +1,8 @@
 # FramPartitionManager (AlphaAlpha - not yet published)
 
+[![CRA Status](https://img.shields.io/badge/CRA-Exempt%20(pure%20OSS)-informational)](./CRA-EXEMPTION.md)
+[![Attention – Alpha Version](https://img.shields.io/badge/Attention-Alpha%20Version-red?style=flat-square)](https://github.com/dein-benutzer/dein-repo#readme)
+
 **Author:** Thomas Walloschke (<artkeller@gmx.de>)  
 **License:** MIT  
 **Platform:** ESP32-C3 (I2C-FRAM MB85RC256V)  
